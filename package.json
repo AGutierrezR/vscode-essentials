@@ -2,12 +2,56 @@
   "name": "vscode-essentials",
   "displayName": "VSCode Essentials",
   "description": "",
+  "publisher": "agutierrezr",
+  "author": {
+    "name": "Andrés Gutiérrez"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.59.0"
   },
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/AGutierrezR/essential-extensions-pack"
+  },
   "categories": [
     "Extension Packs"
   ],
-  "extensionPack": []
+  "extensionPack": [
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "aaron-bond.better-comments",
+    "coenraads.bracket-pair-colorizer-2",
+    "bbugh.change-color-format",
+    "wmaurer.change-case",
+    "formulahendry.code-runner",
+    "exodiusstudios.comment-anchors",
+    "nidu.copy-json-path",
+    "mrmlnc.vscode-duplicate",
+    "inu1255.easy-snippet",
+    "editorconfig.editorconfig",
+    "agutierrezr.emmet-keybindings",
+    "rubbersheep.gi",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "ecmel.vscode-html-css",
+    "xabikos.javascriptsnippets",
+    "wmaurer.vscode-jumpy",
+    "ritwickdey.liveserver",
+    "ms-vsliveshare.vsliveshare",
+    "yzhang.markdown-all-in-one",
+    "davidanson.vscode-markdownlint",
+    "ms-edgedevtools.vscode-edge-devtools",
+    "ryu1kn.partial-diff",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode",
+    "sibiraj-s.vscode-scss-formatter",
+    "mrmlnc.vscode-scss",
+    "richie5um2.vscode-sort-json",
+    "tyriar.sort-lines",
+    "albert.tabout",
+    "rebornix.toggle",
+    "britesnow.vscode-toggle-quotes",
+    "deerawan.vscode-faker"
+  ]
 }
