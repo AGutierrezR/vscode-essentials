@@ -1,0 +1,13 @@
+{
+  "name": "vscode-essentials",
+  "displayName": "VSCode Essentials",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.59.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": []
+}
