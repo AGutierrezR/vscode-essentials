@@ -6,13 +6,13 @@
   "author": {
     "name": "Andrés Gutiérrez"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.59.0"
   },
-    "repository": {
+  "repository": {
     "type": "git",
-    "url": "https://github.com/AGutierrezR/essential-extensions-pack"
+    "url": "https://github.com/AGutierrezR/vscode-essentials"
   },
   "categories": [
     "Extension Packs"
@@ -32,13 +32,16 @@
     "editorconfig.editorconfig",
     "agutierrezr.emmet-keybindings",
     "rubbersheep.gi",
+    "vsls-contrib.gistfs",
     "donjayamanne.githistory",
     "eamodio.gitlens",
     "ecmel.vscode-html-css",
+    "jasonlhy.hungry-delete",
     "xabikos.javascriptsnippets",
     "wmaurer.vscode-jumpy",
     "ritwickdey.liveserver",
     "ms-vsliveshare.vsliveshare",
+    "ctf0.macros",
     "yzhang.markdown-all-in-one",
     "davidanson.vscode-markdownlint",
     "ms-edgedevtools.vscode-edge-devtools",
