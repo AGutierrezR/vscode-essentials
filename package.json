@@ -6,7 +6,7 @@
   "author": {
     "name": "Andrés Gutiérrez"
   },
-  "version": "0.0.3",
+  "version": "0.0.4",
   "icon": "img/vscode-essential-logo.png",
   "engines": {
     "vscode": "^1.59.0"
@@ -56,7 +56,15 @@
     "tabout",
     "toggle",
     "vscode toggle quotes",
-    "vscode faker"
+    "vscode faker",
+    "vscode checkpoints",
+    "vscode graphql",
+    "html end tag labels",
+    "cssrem",
+    "vscode surround",
+    "vscode svgviewer",
+    "vscode yaml"
+
   ],
   "extensionPack": [
     "formulahendry.auto-close-tag",
@@ -65,6 +73,7 @@
     "coenraads.bracket-pair-colorizer-2",
     "bbugh.change-color-format",
     "wmaurer.change-case",
+    "micnil.vscode-checkpoints",
     "formulahendry.code-runner",
     "exodiusstudios.comment-anchors",
     "nidu.copy-json-path",
@@ -76,7 +85,9 @@
     "vsls-contrib.gistfs",
     "donjayamanne.githistory",
     "eamodio.gitlens",
+    "graphql.vscode-graphql",
     "ecmel.vscode-html-css",
+    "anteprimorac.html-end-tag-labels",
     "jasonlhy.hungry-delete",
     "xabikos.javascriptsnippets",
     "wmaurer.vscode-jumpy",
@@ -89,13 +100,17 @@
     "ryu1kn.partial-diff",
     "christian-kohler.path-intellisense",
     "esbenp.prettier-vscode",
+    "cipchk.cssrem",
     "sibiraj-s.vscode-scss-formatter",
     "mrmlnc.vscode-scss",
     "richie5um2.vscode-sort-json",
     "tyriar.sort-lines",
+    "yatki.vscode-surround",
+    "cssho.vscode-svgviewer",
     "albert.tabout",
     "rebornix.toggle",
     "britesnow.vscode-toggle-quotes",
-    "deerawan.vscode-faker"
+    "deerawan.vscode-faker",
+    "redhat.vscode-yaml"
   ]
 }

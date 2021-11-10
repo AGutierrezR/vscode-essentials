@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.0.4
+
+- Add more extensions
+  
 ## 0.0.3
 
 - Add logo
