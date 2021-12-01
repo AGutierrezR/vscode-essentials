@@ -6,7 +6,7 @@
   "author": {
     "name": "Andrés Gutiérrez"
   },
-  "version": "0.0.4",
+  "version": "1.0.0",
   "icon": "img/vscode-essential-logo.png",
   "engines": {
     "vscode": "^1.59.0"
@@ -36,6 +36,7 @@
     "gistfs",
     "githistory",
     "gitlens",
+    "goto member",
     "vscode html css",
     "hungry delete",
     "javascriptsnippets",
@@ -45,6 +46,7 @@
     "macros",
     "markdown all in one",
     "vscode markdownlint",
+    "mdx",
     "vscode edge devtools",
     "partial diff",
     "path intellisense",
@@ -63,12 +65,13 @@
     "cssrem",
     "vscode surround",
     "vscode svgviewer",
-    "vscode yaml"
-
+    "vscode yaml",
+    "dotenv"
   ],
   "extensionPack": [
     "formulahendry.auto-close-tag",
     "formulahendry.auto-rename-tag",
+    "mgmcdermott.vscode-language-babel",
     "aaron-bond.better-comments",
     "coenraads.bracket-pair-colorizer-2",
     "bbugh.change-color-format",
@@ -77,6 +80,7 @@
     "formulahendry.code-runner",
     "exodiusstudios.comment-anchors",
     "nidu.copy-json-path",
+    "mikestead.dotenv",
     "mrmlnc.vscode-duplicate",
     "inu1255.easy-snippet",
     "editorconfig.editorconfig",
@@ -85,6 +89,7 @@
     "vsls-contrib.gistfs",
     "donjayamanne.githistory",
     "eamodio.gitlens",
+    "mishkinf.goto-next-previous-member",
     "graphql.vscode-graphql",
     "ecmel.vscode-html-css",
     "anteprimorac.html-end-tag-labels",
@@ -96,9 +101,11 @@
     "ctf0.macros",
     "yzhang.markdown-all-in-one",
     "davidanson.vscode-markdownlint",
+    "silvenon.mdx",
     "ms-edgedevtools.vscode-edge-devtools",
-    "ryu1kn.partial-diff",
+    "dionmunk.vscode-notes",
     "christian-kohler.path-intellisense",
+    "ryu1kn.partial-diff",
     "esbenp.prettier-vscode",
     "cipchk.cssrem",
     "sibiraj-s.vscode-scss-formatter",
