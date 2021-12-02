@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.0.1
+
+- Fix issues link
+
 ## 1.0.0
 
 - Add more extensions
