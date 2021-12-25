@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.0.2
+
+- Add more extensions & Remove Bracket Pair Colorizer 2",
+
 ## 1.0.1
 
 - Fix issues link
