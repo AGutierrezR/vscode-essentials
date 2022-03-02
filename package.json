@@ -6,7 +6,7 @@
   "author": {
     "name": "Andrés Gutiérrez"
   },
-  "version": "1.0.2",
+  "version": "1.0.3",
   "icon": "img/vscode-essential-logo.png",
   "engines": {
     "vscode": "^1.59.0"
@@ -86,6 +86,8 @@
     "inu1255.easy-snippet",
     "editorconfig.editorconfig",
     "agutierrezr.emmet-keybindings",
+    "usernamehw.errorlens",
+    "bodil.file-browser",
     "rubbersheep.gi",
     "vsls-contrib.gistfs",
     "donjayamanne.githistory",
@@ -106,8 +108,10 @@
     "silvenon.mdx",
     "ms-edgedevtools.vscode-edge-devtools",
     "dionmunk.vscode-notes",
-    "christian-kohler.path-intellisense",
+    "eg2.vscode-npm-script",
+    "christian-kohler.npm-intellisense",
     "ryu1kn.partial-diff",
+    "christian-kohler.path-intellisense",
     "esbenp.prettier-vscode",
     "cipchk.cssrem",
     "sibiraj-s.vscode-scss-formatter",
